@@ -1,0 +1,64 @@
+
+.image{
+    width: 250px;
+    height: 250px;
+    margin-left: -6px;
+}
+
+.side-1{
+    background-color: aqua;
+    margin-right: 1260px;
+    margin-left: -6px;
+    margin-top: -18px;
+    padding-bottom: 5px;
+}
+
+.hdng{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.list{
+    list-style: none;
+}
+.desig{
+    color: black;
+    padding-top: 5px;
+}
+
+.list-cnt{
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+    text-align:start;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+.list-sub{
+    list-style: none;
+    font-size: 13;
+}
+
+.about-us{
+    list-style: none;
+}
+.work-exp{
+    list-style: none;
+}
+.educ{
+    list-style: none;
+}
+
+.side-2{
+    margin-left: 250px;
+    margin-right: 900px;
+    margin-top:-850px ;
+}
+
+.main{
+    color: aqua;
+    font-weight: bolder;
+    font-size: 17px;
+}
